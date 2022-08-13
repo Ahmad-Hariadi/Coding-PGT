@@ -1,0 +1,20 @@
+cd C:\Develop\Coding-PGT
+chdir C:\Develop\Coding-PGT
+mkdir tes
+rmdir tes
+dir
+ping www.google.com
+ipconfig
+assoc .docx
+attrib laporan.docx
+date
+exit
+help
+rename assetsoal.txt asset_soal.txt
+defrag C:
+cls
+del C:\latihan
+color 07
+move asset_soal.txt C:
+shutdown /r
+copy asset_soal.txt D:\
